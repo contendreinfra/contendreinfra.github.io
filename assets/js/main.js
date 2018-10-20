@@ -669,7 +669,7 @@
                     }],
                     caption: ' ',
                     displayType: 'bottomToTop',
-                    displayTypeSpeed: 100
+                    displayTypeSpeed: 75
                 });
             });
         },

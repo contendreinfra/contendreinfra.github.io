@@ -15,7 +15,7 @@ var RevSlider = function() {
                     jsFileLocation: "includes/rev-slider/js/",
                     sliderLayout: "fullscreen",
                     dottedOverlay: "none",
-                    delay: 9000,
+                    delay: 1800 ,
                     navigation: {
                         keyboardNavigation: "on",
                         keyboard_direction: "horizontal",
@@ -55,7 +55,7 @@ var RevSlider = function() {
                     parallax: {
                         type: "scroll",
                         origo: "enterpoint",
-                        speed: 400,
+                        speed: 5,
                         levels: [5,10,15,20,25,30,35,40,45,50],
                     },
                     shadow: 0,
@@ -96,7 +96,7 @@ var RevSlider = function() {
                     startheight:650,
                     fullWidth:"on",
                     dottedOverlay: "none",
-                    delay: 9000,
+                    delay: 1000,
                     navigation: {
                         keyboardNavigation: "on",
                         keyboard_direction: "horizontal",
@@ -145,7 +145,7 @@ var RevSlider = function() {
                     parallax: {
                         type: "scroll",
                         origo: "enterpoint",
-                        speed: 400,
+                        speed: 1400,
                         levels: [5,10,15,20,25,30,35,40,45,50],
                     },
                     shadow: 0,
