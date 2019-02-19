@@ -930,12 +930,12 @@
                     '</div>';
                 $('#gmap')
                 .gmap3({
-                    center: [19.175581, 72.947894],
+                    center: [19.1829,72.9489],
                     zoom: 16,
                     scrollwheel: false
                 })
                 .infowindow({
-                    position: [19.175581, 72.947894],
+                    position: [19.1829,72.9489],
                     content: contentString
                 })
                 .then(function (infowindow) {
