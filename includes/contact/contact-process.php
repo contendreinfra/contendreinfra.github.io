@@ -1,5 +1,5 @@
 <?php
-define( "WEBMASTER_EMAIL", 'contendreinfra@gmail.com' );
+define( "WEBMASTER_EMAIL", 'contact@contendreinfra.in' );
 
 $error = false;
 $fields = array( 'name', 'email', 'subject', 'message' );
